@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "yup-decorator",
+  "name": "@onichndame/yup-decorator",
   "author": "onichandame",
   "module": "dist/yup-decorator.esm.js",
   "size-limit": [
